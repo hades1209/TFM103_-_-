@@ -1,27 +1,25 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Tibame_T14\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\TwenGO.csproj": {}
+    "C:\\Users\\a1050\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\TwenGO.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Tibame_T14\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\TwenGO.csproj": {
+    "C:\\Users\\a1050\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\TwenGO.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Tibame_T14\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\TwenGO.csproj",
+        "projectUniqueName": "C:\\Users\\a1050\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\TwenGO.csproj",
         "projectName": "TwenGO",
-        "projectPath": "C:\\Users\\Tibame_T14\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\TwenGO.csproj",
-        "packagesPath": "C:\\Users\\Tibame_T14\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Tibame_T14\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\obj\\",
+        "projectPath": "C:\\Users\\a1050\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\TwenGO.csproj",
+        "packagesPath": "C:\\Users\\a1050\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\a1050\\Documents\\TFM103_第二組_專題\\TwenGO\\TwenGO\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
-          "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\"
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\Tibame_T14\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\a1050\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
           "net5.0"
