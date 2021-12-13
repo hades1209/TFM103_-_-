@@ -1,8 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\TwenGO"
+    "\\TwenGO",
+    "\\TwenGO\\TwenGO",
+    "\\TwenGO\\TwenGO\\Views",
+    "\\TwenGO\\TwenGO\\Views\\Shared"
   ],
-  "SelectedNode": "\\TwenGO\\TwenGO.sln",
+  "SelectedNode": "\\TwenGO\\TwenGO\\Views\\Shared\\_Layout.cshtml",
   "PreviewInSolutionExplorer": false
 }
